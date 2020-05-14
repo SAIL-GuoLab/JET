@@ -1,0 +1,30 @@
+function FitSpec=SQSBS(x, time, FID_basis, LB_mode) % spectrum quantification with simulated basis set
+
+% Jia, 10/10/16
+% Please contact jg3400@columbia.edu if you have questions. 
+
+GABA_Amplitude = x(1,1); 
+GABA_LB = x(1,2);
+GABA_ChemShift = x(1,3);
+GABA_Phase = x(1,4);
+
+Glx_Amplitude = x(2,1); 
+Glx_LB = x(2,2);
+Glx_ChemShift = x(2,3);
+Glx_Phase = x(2,4);
+
+switch LB_mode
+    case 1 % Lorenzian Line Broadening
+        if size(x,2)==3
+        FitFID = GABA_Amplitude.*FID_basis(1,:).*exp(-GABA_LB.*time*pi).*exp(1i.*time.*GABA_ChemShift.*400.*6.28)+...
+            Glx_Amplitude.*FID_basis(2,:).*exp(-Glx_LB.*time*pi).*exp(1i.*time.*Glx_ChemShift.*400.*6.28);
+        else if size(x,2)==4
+        FitFID = GABA_Amplitude.*FID_basis(1,:).*exp(-GABA_LB.*time*pi).*exp(1i.*time.*GABA_ChemShift.*400.*6.28)+...
+%             Glx_Amplitude.*FID_basis(2,:).*exp(-Glx_LB.*time*pi).*exp(1i.*time.*Glx_ChemShift.*400.*6.28+1i.*GABA_Phase);
+    case 2 % Gaussian Line Broadening
+        FitFID = GABA_Amplitude.*FID_basis(1,:).*exp(-GABA_LB^2.*time.^2*pi).*exp(1i.*time.*GABA_ChemShift.*400.*6.28)+...
+            Glx_Amplitude.*FID_basis(2,:).*exp(-Glx_LB^2.*time.^2*pi).*exp(1i.*time.*Glx_ChemShift.*400.*6.28);
+%         FitFID = GABA_Amplitude.*FID_basis(1,:).*exp(-GABA_LB^2.*time.^2*pi).*exp(1i.*time.*GABA_ChemShift.*400.*6.28)+...
+%             Glx_Amplitude.*FID_basis(2,:).*exp(-Glx_LB^2.*time.^2*pi).*exp(1i.*time.*Glx_ChemShift.*400.*6.28+1i.*Glx_Phase);
+end
+FitSpec = real(fft(FitFID));
