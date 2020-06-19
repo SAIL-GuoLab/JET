@@ -35,13 +35,12 @@ BibTeX:
 
 2)
 MLA:
-Guo, Jia, et al. "MouseStream: A Software Suite for Mapping and Analyzing Mouse Cortical Functional Architecture In Vivo Using Magnetic Resonance Microscopy." Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings (2018): 1213.
+Guo, Jia, et al. "Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0." Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings (2018).
 BibTeX:
-@inproceedings{guo2018MouseStream,
-  title={MouseStream: A Software Suite for Mapping and Analyzing Mouse Cortical Functional Architecture In Vivo Using Magnetic Resonance Microscopy},
-  author={Guo, Jia and Xinyang, Feng and Sigmon, Hannah and Provenzano, Frank and Small, Scott},
+@inproceedings{guo2018MRSMouse,
+  title={Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0},
+  author={Guo, Jia and Rothman, Douglas L and Small, Scott A},
   publisher={Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings},
-  pages={1213},
   year={2018}
 }
 
