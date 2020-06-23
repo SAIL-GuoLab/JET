@@ -18,8 +18,9 @@ For now please cite these papers partially describing the method used in the too
 
 1) MLA: Guo, Jia, et al. "In vivo detection and automatic analysis of GABA in the mouse brain with MEGA‐PRESS at 9.4 T." NMR in Biomedicine 31.1 (2018): e3837.
 
-> BibTeX:
-> @article{guo2018InVivoGABAMouseBrainMEGAPRESS,
+```
+BibTeX:
+@article{guo2018InVivoGABAMouseBrainMEGAPRESS,
   title={In vivo detection and automatic analysis of GABA in the mouse brain with MEGA-PRESS at 9.4 T},
   author={Guo, Jia and Gang, Zhu and Sun, Yanping and Laine, Andrew and Small, Scott A and Rothman, Douglas L},
   journal={NMR in Biomedicine},
@@ -30,9 +31,11 @@ For now please cite these papers partially describing the method used in the too
   publisher={Wiley Online Library},
   doi={https://doi.org/10.1002/nbm.3837}
 }
+```
 
 2) MLA: Guo, Jia, et al. "Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0." Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings (2018).
 
+```
 BibTeX:
 @inproceedings{guo2018MRSMouse,
   title={Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0},
@@ -40,8 +43,7 @@ BibTeX:
   publisher={Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings},
   year={2018}
 }
+```
 
 ## User Guide
 The user guide can be found in both [PDF](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual.pdf) and in [PowerPoint](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual.pptx).
-
-![User Guide PDF](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual.pdf)
