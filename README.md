@@ -47,3 +47,11 @@ BibTeX:
   year={2018}
 }
 ```
+
+## Selected Images from the User Manual
+![Slide07](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide07.PNG)
+![Slide10](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide10.PNG)
+![Slide12](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide12.PNG)
+![Slide15](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide15.PNG)
+![Slide19](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide19.PNG)
+![Slide21](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide21.PNG)
