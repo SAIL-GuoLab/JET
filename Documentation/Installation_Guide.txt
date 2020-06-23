@@ -13,7 +13,7 @@ When encountering software bugs please file a report to jg3400@columbia.edu.
 
 6. This toolbox is still under further development. Newly-found bugs will be fixed and more functionalities will be implemented in Version 2.0.
 
-7. When JET is used in publications, proper reference to the above cited papers should be made. (Paper + doi of this software.)
+7. When JET is used in publications, proper reference to the following papers and this software should be made. (Paper + doi of this software.)
 An article describing the JET toolbox is under preparation. It will be the most proper paper to cite once available.
 For now please cite these papers partially describing the method used in the toolbox instead.
 
