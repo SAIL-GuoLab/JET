@@ -20,8 +20,9 @@ An article describing the JET toolbox is under preparation. It will be the most 
 For now please cite these papers partially describing the method used in the toolbox instead.
 
 1) MLA: Guo, Jia, et al. "In vivo detection and automatic analysis of GABA in the mouse brain with MEGA‐PRESS at 9.4 T." NMR in Biomedicine 31.1 (2018): e3837.
-```
+
 BibTeX:
+```
 @article{guo2018InVivoGABAMouseBrainMEGAPRESS,
   title={In vivo detection and automatic analysis of GABA in the mouse brain with MEGA-PRESS at 9.4 T},
   author={Guo, Jia and Gang, Zhu and Sun, Yanping and Laine, Andrew and Small, Scott A and Rothman, Douglas L},
@@ -36,8 +37,9 @@ BibTeX:
 ```
 
 2) MLA: Guo, Jia, et al. "Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0." Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings (2018).
-```
+
 BibTeX:
+```
 @inproceedings{guo2018MRSMouse,
   title={Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0},
   author={Guo, Jia and Rothman, Douglas L and Small, Scott A},
