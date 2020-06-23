@@ -11,6 +11,9 @@ For questions, concerns and potential collaboration, please contact Jia Guo at j
 ## Installation
 Please refer to the [installation guide](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/Installation_Guide.txt).
 
+## User Manual
+The user guide can be found in both [PDF](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual.pdf) and in [PowerPoint](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual.pptx).
+
 ## Academic Use and Proper Citation
 When JET is used in publications, proper reference to the following papers and this software should be made. (Paper + doi of this software.)
 An article describing the JET toolbox is under preparation. It will be the most proper paper to cite once available.
@@ -42,6 +45,3 @@ BibTeX:
   year={2018}
 }
 ```
-
-## User Manual
-The user guide can be found in both [PDF](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual.pdf) and in [PowerPoint](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual.pptx).
