@@ -48,7 +48,7 @@ BibTeX:
 }
 ```
 
-## Selected Images from the User Manual
+## Selected Slides from the User Manual
 ![Slide07](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide07.PNG)
 ![Slide10](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide10.PNG)
 ![Slide12](https://github.com/SAIL-GuoLab/JET/blob/master/Documentation/JET_1.0_UserManual_by_slide/Slide12.PNG)
