@@ -1,0 +1,1 @@
+Choline    Y     0     1Creatine   Y     0     1GABA       Y     0     1Glutamate  Y     0     1Glutamine  Y     0     1NAA        Y     0     1
