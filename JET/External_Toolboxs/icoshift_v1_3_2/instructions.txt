@@ -1,0 +1,12 @@
+Simply unzip all the files in the same folder (that you will select as the curren folder)
+and then, in Matlab, type: echodemo('icoshiftdemo.m').
+
+In order to get along the demo, click on the "next" button that appears on the command window for each one of the 9 steps.
+
+Type "icoshift" for getting some help on usage 
+Type "help icoshift" for a comprehensive description of all the tool arguments and options
+
+
+icoshiftdemo Ver. 2.0
+Francesco Savorani
+15 December 2009
