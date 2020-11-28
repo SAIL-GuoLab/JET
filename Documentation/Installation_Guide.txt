@@ -1,0 +1,47 @@
+1. Go to a convenient location in your computer.
+Please note that for most operating systems it is advisable to make sure the directory is not too long, does not contain spaces or non-English characters.
+
+2. Clone from GitHub repository.
+git clone https://github.com/SAIL-GuoLab/JET
+
+3. Organize your data inside “./Data/” folder, in the following hierarchy: ./Data/vender/scanner/study/session/
+
+4. Modify and run JET_main_script.m
+
+5. In order to protect intellectual property as well as to insure that programs run as intended, most Matlab code files have been encrypted to .p files.
+When encountering software bugs please file a report to jg3400@columbia.edu.
+
+6. This toolbox is still under further development. Newly-found bugs will be fixed and more functionalities will be implemented in Version 3.0.
+
+7. When JET is used in publications, proper reference to the above cited papers should be made. (Paper + doi of this software.)
+An article describing the JET toolbox is under preparation. It will be the most proper paper to cite once available.
+For now please cite these papers partially describing the method used in the toolbox instead.
+
+1)
+MLA:
+Guo, Jia, et al. "In vivo detection and automatic analysis of GABA in the mouse brain with MEGA‐PRESS at 9.4 T." NMR in Biomedicine 31.1 (2018): e3837.
+BibTeX:
+@article{guo2018InVivoGABAMouseBrainMEGAPRESS,
+  title={In vivo detection and automatic analysis of GABA in the mouse brain with MEGA-PRESS at 9.4 T},
+  author={Guo, Jia and Gang, Zhu and Sun, Yanping and Laine, Andrew and Small, Scott A and Rothman, Douglas L},
+  journal={NMR in Biomedicine},
+  volume={31},
+  number={1},
+  pages={e3837},
+  year={2018},
+  publisher={Wiley Online Library},
+  doi={https://doi.org/10.1002/nbm.3837}
+}
+
+2)
+MLA:
+Guo, Jia, et al. "Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0." Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings (2018).
+BibTeX:
+@inproceedings{guo2018MRSMouse,
+  title={Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0},
+  author={Guo, Jia and Rothman, Douglas L and Small, Scott A},
+  publisher={Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings},
+  year={2018}
+}
+
+8. If you have any question or are interested in further collaboration, please contact Dr. Jia Guo at jg3400@columbia.edu.
