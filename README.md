@@ -1,6 +1,6 @@
 # J-Editing Toolkit (JET)
 
-This is the GitHub repository for J-Editing Toolkit (JET).
+This is the GitHub repository for J-Editing Toolkit (JET). DOI: http://doi.org/10.5281/zenodo.3967565.
 
 - Major Contributors: Chen "Raphael" Liu, MS; Nanyan "Rosalie" Zhu, MA; Jia Guo, PhD.
 - Contributors: David J. Ma, MS; Roshell Li, MS; Jochen Weber, MS; Kay C. Igwe, MS; Emily Turner Wood, MD/PhD; Wafae Labriji; Vasile Stupar, PhD; Gregory Smith, PhD.
