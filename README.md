@@ -21,7 +21,19 @@ When JET is used in publications, proper reference to the following papers and t
 An article describing the JET toolbox is under preparation. It will be the most proper paper to cite once available.
 For now please cite these papers partially describing the method used in the toolbox instead.
 
-1) MLA: Guo, Jia, et al. "In vivo detection and automatic analysis of GABA in the mouse brain with MEGA‐PRESS at 9.4 T." NMR in Biomedicine 31.1 (2018): e3837.
+1) MLA: Liu, Chen, et al. "JET-A Matlab toolkit for automated J-difference-edited MR spectra processing of in vivo mouse MEGA-PRESS study at 9.4 T." Joint Annual Meeting ISMRMSMRT (Vancouver, Canada). 2021.
+
+BibTex:
+```
+@inproceedings{liu2021jet,
+  title={JET-A Matlab toolkit for automated J-difference-edited MR spectra processing of in vivo mouse MEGA-PRESS study at 9.4 T},
+  author={Liu, Chen and Ma, David Jing and Zhu, Nanyan and Igwe, Kay and Weber, Jochen and Li, Roshell and Wood, Emily Turner and Labriji, Wafae and Stupar, Vasile and Sun, Yanping and others}
+  publisher={Joint Annual Meeting ISMRM-SMRT (Vancouver, Canada) Proceedings},
+  year={2021}
+}
+```
+
+2) MLA: Guo, Jia, et al. "In vivo detection and automatic analysis of GABA in the mouse brain with MEGA‐PRESS at 9.4 T." NMR in Biomedicine 31.1 (2018): e3837.
 
 BibTeX:
 ```
@@ -38,7 +50,7 @@ BibTeX:
 }
 ```
 
-2) MLA: Guo, Jia, et al. "Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0." Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings (2018).
+3) MLA: Guo, Jia, et al. "Automated MR Spectrum Registration for In Vivo Mouse MEGA-PRESS Study at 9.4T And the Introduction of MRSMouse2.0." Joint Annual Meeting ISMRM-ESMRMB 2018 Proceedings (2018).
 
 BibTeX:
 ```
